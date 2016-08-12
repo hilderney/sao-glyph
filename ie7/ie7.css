@@ -1,454 +1,454 @@
-.sao-btn-armor {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe901;');
-}
-.sao-btn-armor-ringed {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe902;');
-}
-.sao-btn-avatar {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe903;');
-}
-.sao-btn-avatar-ringed {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe904;');
-}
-.sao-btn-blade {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe905;');
-}
-.sao-btn-blade-dual-ringed {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe906;');
-}
-.sao-btn-blade-dual {
+.btn-armor {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe900;');
 }
-.sao-btn-blade-parrying {
+.btn-avatar {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe901;');
+}
+.btn-blade {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe902;');
+}
+.btn-blade-dual {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe903;');
+}
+.btn-blade-parrying {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe904;');
+}
+.btn-blade-thowing {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe905;');
+}
+.btn-cancel {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe906;');
+}
+.btn-cancel-extrude {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe907;');
 }
-.sao-btn-blade-parrying-ringed {
+.btn-checked {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe908;');
 }
-.sao-btn-blade-ringed {
+.btn-close {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe909;');
 }
-.sao-btn-blade-thowing {
+.btn-config {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe90a;');
 }
-.sao-btn-blade-thowing-ringed {
+.btn-confirm {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe90b;');
 }
-.sao-btn-cancel {
+.btn-confirm-extrude {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe90c;');
 }
-.sao-btn-cancel-extrude {
+.btn-details {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe90d;');
 }
-.sao-btn-cancel-extrude-ringed {
+.btn-dungeon {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe90e;');
 }
-.sao-btn-cancel-ringed {
+.btn-empty {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe90f;');
 }
-.sao-btn-checked {
+.btn-equipment {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe910;');
 }
-.sao-btn-checked-ringed {
+.btn-exclamation {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe911;');
 }
-.sao-btn-close {
+.btn-foward {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe912;');
 }
-.sao-btn-close-ringed {
+.btn-friend-add {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe913;');
 }
-.sao-btn-config {
+.btn-friend-remove {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe914;');
 }
-.sao-btn-config-ringed {
+.btn-group {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe915;');
 }
-.sao-btn-confirm {
+.btn-guild {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe916;');
 }
-.sao-btn-confirm-extrude {
+.btn-healing-battle {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe917;');
 }
-.sao-btn-confirm-extrude-ringed {
+.btn-help {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe918;');
 }
-.sao-btn-confirm-ringed {
+.btn-invite {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe919;');
 }
-.sao-btn-details {
+.btn-itens {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe91a;');
 }
-.sao-btn-details-ringed {
+.btn-list {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe91b;');
 }
-.sao-btn-dungeon {
+.btn-logout {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe91c;');
 }
-.sao-btn-dungeon-ringed {
+.btn-map {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe91d;');
 }
-.sao-btn-empty {
+.btn-map-gps {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe91e;');
 }
-.sao-btn-empty-ringed {
+.btn-message {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe91f;');
 }
-.sao-btn-equipment {
+.btn-minus {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe920;');
 }
-.sao-btn-equipment-ringed {
+.btn-necklace {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe921;');
 }
-.sao-btn-exclamation {
+.btn-options {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe922;');
 }
-.sao-btn-exclamation-ringed {
+.btn-party {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe923;');
 }
-.sao-btn-foward {
+.btn-paused {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe924;');
 }
-.sao-btn-foward-ringed {
+.btn-plus {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe925;');
 }
-.sao-btn-friend-add {
+.btn-quest {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe926;');
 }
-.sao-btn-friend-add-ringed {
+.btn-question {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe927;');
 }
-.sao-btn-friend-remove {
+.btn-radar {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe928;');
 }
-.sao-btn-friend-remove-ringed {
+.btn-raid {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe929;');
 }
-.sao-btn-group {
+.btn-reverse {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92a;');
 }
-.sao-btn-group-ringed {
+.btn-ringed-armor {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92b;');
 }
-.sao-btn-guild {
+.btn-ringed-avatar {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92c;');
 }
-.sao-btn-guild-ringed {
+.btn-ringed-blade {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92d;');
 }
-.sao-btn-healing-battle {
+.btn-ringed-blade-dual {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92e;');
 }
-.sao-btn-healing-battle-ringed {
+.btn-ringed-blade-parrying {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92f;');
 }
-.sao-btn-help {
+.btn-ringed-blade-thowing {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe930;');
 }
-.sao-btn-help-ringed {
+.btn-ringed-cancel {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe931;');
 }
-.sao-btn-invite {
+.btn-ringed-cancel-extrude {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe932;');
 }
-.sao-btn-invite-ringed {
+.btn-ringed-checked {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe933;');
 }
-.sao-btn-itens {
+.btn-ringed-close {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe934;');
 }
-.sao-btn-itens-ringed {
+.btn-ringed-config {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe935;');
 }
-.sao-btn-list {
+.btn-ringed-confirm {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe936;');
 }
-.sao-btn-list-ringed {
+.btn-ringed-confirm-extrude {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe937;');
 }
-.sao-btn-logout {
+.btn-ringed-details {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe938;');
 }
-.sao-btn-logout-ringed {
+.btn-ringed-dungeon {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe939;');
 }
-.sao-btn-map {
+.btn-ringed-empty {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe93a;');
 }
-.sao-btn-map_ringed {
+.btn-ringed-equipment {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe93b;');
 }
-.sao-btn-map-gps {
+.btn-ringed-exclamation {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe93c;');
 }
-.sao-btn-map-gps-ringed {
+.btn-ringed-foward {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe93d;');
 }
-.sao-btn-message {
+.btn-ringed-friend-add {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe93e;');
 }
-.sao-btn-message-ringed {
+.btn-ringed-friend-remove {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe93f;');
 }
-.sao-btn-minus {
+.btn-ringed-group {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe940;');
 }
-.sao-btn-minus-ringed {
+.btn-ringed-guild {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe941;');
 }
-.sao-btn-necklace {
+.btn-ringed-healing-battle {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe942;');
 }
-.sao-btn-necklace-ringed {
+.btn-ringed-help {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe943;');
 }
-.sao-btn-options {
+.btn-ringed-invite {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe944;');
 }
-.sao-btn-options-ringed {
+.btn-ringed-itens {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe945;');
 }
-.sao-btn-party {
+.btn-ringed-list {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe946;');
 }
-.sao-btn-party-ringed {
+.btn-ringed-logout {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe947;');
 }
-.sao-btn-paused {
+.btn-ringed-map {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe948;');
 }
-.sao-btn-pause-ringed {
+.btn-ringed-map-gps {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe949;');
 }
-.sao-btn-plus {
+.btn-ringed-message {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe94a;');
 }
-.sao-btn-plus-ringed {
+.btn-ringed-minus {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe94b;');
 }
-.sao-btn-quest {
+.btn-ringed-necklace {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe94c;');
 }
-.sao-btn-question {
+.btn-ringed-options {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe94d;');
 }
-.sao-btn-question-ringed {
+.btn-ringed-party {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe94e;');
 }
-.sao-btn-quest-ringed {
+.btn-ringed-pause {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe94f;');
 }
-.sao-btn-radar {
+.btn-ringed-plus {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe950;');
 }
-.sao-btn-radar-ringed {
+.btn-ringed-quest {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe951;');
 }
-.sao-btn-raid {
+.btn-ringed-question {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe952;');
 }
-.sao-btn-raid-ringed {
+.btn-ringed-radar {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe953;');
 }
-.sao-btn-reverse {
+.btn-ringed-raid {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe954;');
 }
-.sao-btn-reverse-ringed {
+.btn-ringed-reverse {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe955;');
 }
-.sao-btn-shirt {
+.btn-ringed-shirt {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe956;');
 }
-.sao-btn-shirt-ringed {
+.btn-ringed-signal {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe957;');
 }
-.sao-btn-signal {
+.btn-ringed-skill {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe958;');
 }
-.sao-btn-signal-ringed {
+.btn-ringed-start {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe959;');
 }
-.sao-btn-skill {
+.btn-ringed-stop {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe95a;');
 }
-.sao-btn-skill-ringed {
+.btn-ringed-tracking {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe95b;');
 }
-.sao-btn-start {
+.btn-ringed-zoom-in {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe95c;');
 }
-.sao-btn-start-ringed {
+.btn-ringed-zoom-out {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe95d;');
 }
-.sao-btn-stop {
+.btn-shirt {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe95e;');
 }
-.sao-btn-stop-ringed {
+.btn-signal {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe95f;');
 }
-.sao-btn-tracking {
+.btn-skill {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe960;');
 }
-.sao-btn-tracking-ringed {
+.btn-start {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe961;');
 }
-.sao-btn-zoom-in {
+.btn-stop {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe962;');
 }
-.sao-btn-zoom-in-ringed {
+.btn-tracking {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe963;');
 }
-.sao-btn-zoom-out {
+.btn-zoom-in {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe964;');
 }
-.sao-btn-zoom-out-ringed {
+.btn-zoom-out {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe965;');
 }
-.sao-icon-armor {
+.icon-armor {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe966;');
 }
-.sao-icon-avatar {
+.icon-avatar {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe967;');
 }
-.sao-icon-blade {
+.icon-blade {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe968;');
 }
-.sao-icon-blade-dual {
+.icon-blade-dual {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe969;');
 }
-.sao-icon-blade-parrying {
+.icon-blade-parrying {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe96a;');
 }
-.sao-icon-blade-throwing {
+.icon-blade-throwing {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe96b;');
 }
-.sao-icon-cancel {
+.icon-cancel {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe96c;');
 }
-.sao-icon-checked {
+.icon-checked {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe96d;');
 }
-.sao-icon-close {
+.icon-close {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe96e;');
 }
-.sao-icon-config {
+.icon-config {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe96f;');
 }
-.sao-icon-confirm {
+.icon-confirm {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe970;');
 }
-.sao-icon-details {
+.icon-details {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe971;');
 }
-.sao-icon-dungeon {
+.icon-dungeon {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe972;');
 }
-.sao-icon-empty {
+.icon-empty {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe973;');
 }
-.sao-icon-equipment {
+.icon-equipment {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe974;');
 }
-.sao-icon-exclamation {
+.icon-exclamation {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe975;');
 }
-.sao-icon-foward {
+.icon-foward {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe976;');
 }
-.sao-icon-friend-add {
+.icon-friend-add {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe977;');
 }
-.sao-icon-friend-remove {
+.icon-friend-remove {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe978;');
 }
-.sao-icon-group {
+.icon-group {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe979;');
 }
-.sao-icon-guild {
+.icon-guild {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe97a;');
 }
-.sao-icon-healing-battle {
+.icon-healing-battle {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe97b;');
 }
-.sao-icon-help {
+.icon-help {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe97c;');
 }
-.sao-icon-invite {
+.icon-invite {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe97d;');
 }
-.sao-icon-itens {
+.icon-itens {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe97e;');
 }
-.sao-icon-list {
+.icon-list {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe97f;');
 }
-.sao-icon-logout {
+.icon-logout {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe980;');
 }
-.sao-icon-map {
+.icon-map {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe981;');
 }
-.sao-icon-map-gps {
+.icon-map-gps {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe982;');
 }
-.sao-icon-message {
+.icon-message {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe983;');
 }
-.sao-icon-minus {
+.icon-minus {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe984;');
 }
-.sao-icon-necklace {
+.icon-necklace {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe985;');
 }
-.sao-icon-options {
+.icon-options {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe986;');
 }
-.sao-icon-party {
+.icon-party {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe987;');
 }
-.sao-icon-paused {
+.icon-paused {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe988;');
 }
-.sao-icon-plus {
+.icon-plus {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe989;');
 }
-.sao-icon-quest {
+.icon-quest {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe98a;');
 }
-.sao-icon-question {
+.icon-question {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe98b;');
 }
-.sao-icon-radar {
+.icon-radar {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe98c;');
 }
-.sao-icon-raid {
+.icon-raid {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe98d;');
 }
-.sao-icon-reverse {
+.icon-reverse {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe98e;');
 }
-.sao-icon-signal {
+.icon-signal {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe98f;');
 }
-.sao-icon-skill {
+.icon-skill {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe990;');
 }
-.sao-icon-start {
+.icon-start {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe991;');
 }
-.sao-icon-status-bar2 {
+.icon-status-bar2 {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe992;');
 }
-.sao-icon-stop {
+.icon-stop {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe993;');
 }
-.sao-icon-tracking {
+.icon-tracking {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe994;');
 }
-.sao-icon-zoom-in {
+.icon-zoom-in {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe995;');
 }
-.sao-icon-zoom-out {
+.icon-zoom-out {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe996;');
 }
 

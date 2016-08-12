@@ -1,16 +1,13 @@
 @font-face {
   font-family: 'sao-glyphs';
-  src:  url('fonts/sao-glyphs.eot?dwa841');
-  src:  url('fonts/sao-glyphs.eot?dwa841#iefix') format('embedded-opentype'),
-    url('fonts/sao-glyphs.ttf?dwa841') format('truetype'),
-    url('fonts/sao-glyphs.woff?dwa841') format('woff'),
-    url('fonts/sao-glyphs.svg?dwa841#sao-glyphs') format('svg');
+  src: url('fonts/sao-glyphs.eot?kn1eha');
+  src: url('fonts/sao-glyphs.eot?kn1eha#iefix') format('embedded-opentype'), url('fonts/sao-glyphs.ttf?kn1eha') format('truetype'), url('fonts/sao-glyphs.woff?kn1eha') format('woff'), url('fonts/sao-glyphs.svg?kn1eha#sao-glyphs') format('svg');
   font-weight: normal;
   font-style: normal;
 }
-
-[class^="sao-"], [class*=" sao-"] {
+i {
   /* use !important to prevent issues with browser extensions that change fonts */
+  float: left;
   font-family: 'sao-glyphs' !important;
   speak: none;
   font-style: normal;
@@ -18,463 +15,461 @@
   font-variant: normal;
   text-transform: none;
   line-height: 1;
-
   /* Better Font Rendering =========== */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
-.sao-btn-armor:before {
-  content: "\e901";
-}
-.sao-btn-armor-ringed:before {
-  content: "\e902";
-}
-.sao-btn-avatar:before {
-  content: "\e903";
-}
-.sao-btn-avatar-ringed:before {
-  content: "\e904";
-}
-.sao-btn-blade:before {
-  content: "\e905";
-}
-.sao-btn-blade-dual-ringed:before {
-  content: "\e906";
-}
-.sao-btn-blade-dual:before {
+.btn-armor:before {
   content: "\e900";
 }
-.sao-btn-blade-parrying:before {
+.btn-avatar:before {
+  content: "\e901";
+}
+.btn-blade:before {
+  content: "\e902";
+}
+.btn-blade-dual:before {
+  content: "\e903";
+}
+.btn-blade-parrying:before {
+  content: "\e904";
+}
+.btn-blade-thowing:before {
+  content: "\e905";
+}
+.btn-cancel:before {
+  content: "\e906";
+}
+.btn-cancel-extrude:before {
   content: "\e907";
 }
-.sao-btn-blade-parrying-ringed:before {
+.btn-checked:before {
   content: "\e908";
 }
-.sao-btn-blade-ringed:before {
+.btn-close:before {
   content: "\e909";
 }
-.sao-btn-blade-thowing:before {
+.btn-config:before {
   content: "\e90a";
 }
-.sao-btn-blade-thowing-ringed:before {
+.btn-confirm:before {
   content: "\e90b";
 }
-.sao-btn-cancel:before {
+.btn-confirm-extrude:before {
   content: "\e90c";
 }
-.sao-btn-cancel-extrude:before {
+.btn-details:before {
   content: "\e90d";
 }
-.sao-btn-cancel-extrude-ringed:before {
+.btn-dungeon:before {
   content: "\e90e";
 }
-.sao-btn-cancel-ringed:before {
+.btn-empty:before {
   content: "\e90f";
 }
-.sao-btn-checked:before {
+.btn-equipment:before {
   content: "\e910";
 }
-.sao-btn-checked-ringed:before {
+.btn-exclamation:before {
   content: "\e911";
 }
-.sao-btn-close:before {
+.btn-foward:before {
   content: "\e912";
 }
-.sao-btn-close-ringed:before {
+.btn-friend-add:before {
   content: "\e913";
 }
-.sao-btn-config:before {
+.btn-friend-remove:before {
   content: "\e914";
 }
-.sao-btn-config-ringed:before {
+.btn-group:before {
   content: "\e915";
 }
-.sao-btn-confirm:before {
+.btn-guild:before {
   content: "\e916";
 }
-.sao-btn-confirm-extrude:before {
+.btn-healing-battle:before {
   content: "\e917";
 }
-.sao-btn-confirm-extrude-ringed:before {
+.btn-help:before {
   content: "\e918";
 }
-.sao-btn-confirm-ringed:before {
+.btn-invite:before {
   content: "\e919";
 }
-.sao-btn-details:before {
+.btn-itens:before {
   content: "\e91a";
 }
-.sao-btn-details-ringed:before {
+.btn-list:before {
   content: "\e91b";
 }
-.sao-btn-dungeon:before {
+.btn-logout:before {
   content: "\e91c";
 }
-.sao-btn-dungeon-ringed:before {
+.btn-map:before {
   content: "\e91d";
 }
-.sao-btn-empty:before {
+.btn-map-gps:before {
   content: "\e91e";
 }
-.sao-btn-empty-ringed:before {
+.btn-message:before {
   content: "\e91f";
 }
-.sao-btn-equipment:before {
+.btn-minus:before {
   content: "\e920";
 }
-.sao-btn-equipment-ringed:before {
+.btn-necklace:before {
   content: "\e921";
 }
-.sao-btn-exclamation:before {
+.btn-options:before {
   content: "\e922";
 }
-.sao-btn-exclamation-ringed:before {
+.btn-party:before {
   content: "\e923";
 }
-.sao-btn-foward:before {
+.btn-paused:before {
   content: "\e924";
 }
-.sao-btn-foward-ringed:before {
+.btn-plus:before {
   content: "\e925";
 }
-.sao-btn-friend-add:before {
+.btn-quest:before {
   content: "\e926";
 }
-.sao-btn-friend-add-ringed:before {
+.btn-question:before {
   content: "\e927";
 }
-.sao-btn-friend-remove:before {
+.btn-radar:before {
   content: "\e928";
 }
-.sao-btn-friend-remove-ringed:before {
+.btn-raid:before {
   content: "\e929";
 }
-.sao-btn-group:before {
+.btn-reverse:before {
   content: "\e92a";
 }
-.sao-btn-group-ringed:before {
+.btn-ringed-armor:before {
   content: "\e92b";
 }
-.sao-btn-guild:before {
+.btn-ringed-avatar:before {
   content: "\e92c";
 }
-.sao-btn-guild-ringed:before {
+.btn-ringed-blade:before {
   content: "\e92d";
 }
-.sao-btn-healing-battle:before {
+.btn-ringed-blade-dual:before {
   content: "\e92e";
 }
-.sao-btn-healing-battle-ringed:before {
+.btn-ringed-blade-parrying:before {
   content: "\e92f";
 }
-.sao-btn-help:before {
+.btn-ringed-blade-thowing:before {
   content: "\e930";
 }
-.sao-btn-help-ringed:before {
+.btn-ringed-cancel:before {
   content: "\e931";
 }
-.sao-btn-invite:before {
+.btn-ringed-cancel-extrude:before {
   content: "\e932";
 }
-.sao-btn-invite-ringed:before {
+.btn-ringed-checked:before {
   content: "\e933";
 }
-.sao-btn-itens:before {
+.btn-ringed-close:before {
   content: "\e934";
 }
-.sao-btn-itens-ringed:before {
+.btn-ringed-config:before {
   content: "\e935";
 }
-.sao-btn-list:before {
+.btn-ringed-confirm:before {
   content: "\e936";
 }
-.sao-btn-list-ringed:before {
+.btn-ringed-confirm-extrude:before {
   content: "\e937";
 }
-.sao-btn-logout:before {
+.btn-ringed-details:before {
   content: "\e938";
 }
-.sao-btn-logout-ringed:before {
+.btn-ringed-dungeon:before {
   content: "\e939";
 }
-.sao-btn-map:before {
+.btn-ringed-empty:before {
   content: "\e93a";
 }
-.sao-btn-map_ringed:before {
+.btn-ringed-equipment:before {
   content: "\e93b";
 }
-.sao-btn-map-gps:before {
+.btn-ringed-exclamation:before {
   content: "\e93c";
 }
-.sao-btn-map-gps-ringed:before {
+.btn-ringed-foward:before {
   content: "\e93d";
 }
-.sao-btn-message:before {
+.btn-ringed-friend-add:before {
   content: "\e93e";
 }
-.sao-btn-message-ringed:before {
+.btn-ringed-friend-remove:before {
   content: "\e93f";
 }
-.sao-btn-minus:before {
+.btn-ringed-group:before {
   content: "\e940";
 }
-.sao-btn-minus-ringed:before {
+.btn-ringed-guild:before {
   content: "\e941";
 }
-.sao-btn-necklace:before {
+.btn-ringed-healing-battle:before {
   content: "\e942";
 }
-.sao-btn-necklace-ringed:before {
+.btn-ringed-help:before {
   content: "\e943";
 }
-.sao-btn-options:before {
+.btn-ringed-invite:before {
   content: "\e944";
 }
-.sao-btn-options-ringed:before {
+.btn-ringed-itens:before {
   content: "\e945";
 }
-.sao-btn-party:before {
+.btn-ringed-list:before {
   content: "\e946";
 }
-.sao-btn-party-ringed:before {
+.btn-ringed-logout:before {
   content: "\e947";
 }
-.sao-btn-paused:before {
+.btn-ringed-map:before {
   content: "\e948";
 }
-.sao-btn-pause-ringed:before {
+.btn-ringed-map-gps:before {
   content: "\e949";
 }
-.sao-btn-plus:before {
+.btn-ringed-message:before {
   content: "\e94a";
 }
-.sao-btn-plus-ringed:before {
+.btn-ringed-minus:before {
   content: "\e94b";
 }
-.sao-btn-quest:before {
+.btn-ringed-necklace:before {
   content: "\e94c";
 }
-.sao-btn-question:before {
+.btn-ringed-options:before {
   content: "\e94d";
 }
-.sao-btn-question-ringed:before {
+.btn-ringed-party:before {
   content: "\e94e";
 }
-.sao-btn-quest-ringed:before {
+.btn-ringed-pause:before {
   content: "\e94f";
 }
-.sao-btn-radar:before {
+.btn-ringed-plus:before {
   content: "\e950";
 }
-.sao-btn-radar-ringed:before {
+.btn-ringed-quest:before {
   content: "\e951";
 }
-.sao-btn-raid:before {
+.btn-ringed-question:before {
   content: "\e952";
 }
-.sao-btn-raid-ringed:before {
+.btn-ringed-radar:before {
   content: "\e953";
 }
-.sao-btn-reverse:before {
+.btn-ringed-raid:before {
   content: "\e954";
 }
-.sao-btn-reverse-ringed:before {
+.btn-ringed-reverse:before {
   content: "\e955";
 }
-.sao-btn-shirt:before {
+.btn-ringed-shirt:before {
   content: "\e956";
 }
-.sao-btn-shirt-ringed:before {
+.btn-ringed-signal:before {
   content: "\e957";
 }
-.sao-btn-signal:before {
+.btn-ringed-skill:before {
   content: "\e958";
 }
-.sao-btn-signal-ringed:before {
+.btn-ringed-start:before {
   content: "\e959";
 }
-.sao-btn-skill:before {
+.btn-ringed-stop:before {
   content: "\e95a";
 }
-.sao-btn-skill-ringed:before {
+.btn-ringed-tracking:before {
   content: "\e95b";
 }
-.sao-btn-start:before {
+.btn-ringed-zoom-in:before {
   content: "\e95c";
 }
-.sao-btn-start-ringed:before {
+.btn-ringed-zoom-out:before {
   content: "\e95d";
 }
-.sao-btn-stop:before {
+.btn-shirt:before {
   content: "\e95e";
 }
-.sao-btn-stop-ringed:before {
+.btn-signal:before {
   content: "\e95f";
 }
-.sao-btn-tracking:before {
+.btn-skill:before {
   content: "\e960";
 }
-.sao-btn-tracking-ringed:before {
+.btn-start:before {
   content: "\e961";
 }
-.sao-btn-zoom-in:before {
+.btn-stop:before {
   content: "\e962";
 }
-.sao-btn-zoom-in-ringed:before {
+.btn-tracking:before {
   content: "\e963";
 }
-.sao-btn-zoom-out:before {
+.btn-zoom-in:before {
   content: "\e964";
 }
-.sao-btn-zoom-out-ringed:before {
+.btn-zoom-out:before {
   content: "\e965";
 }
-.sao-icon-armor:before {
+.icon-armor:before {
   content: "\e966";
 }
-.sao-icon-avatar:before {
+.icon-avatar:before {
   content: "\e967";
 }
-.sao-icon-blade:before {
+.icon-blade:before {
   content: "\e968";
 }
-.sao-icon-blade-dual:before {
+.icon-blade-dual:before {
   content: "\e969";
 }
-.sao-icon-blade-parrying:before {
+.icon-blade-parrying:before {
   content: "\e96a";
 }
-.sao-icon-blade-throwing:before {
+.icon-blade-throwing:before {
   content: "\e96b";
 }
-.sao-icon-cancel:before {
+.icon-cancel:before {
   content: "\e96c";
 }
-.sao-icon-checked:before {
+.icon-checked:before {
   content: "\e96d";
 }
-.sao-icon-close:before {
+.icon-close:before {
   content: "\e96e";
 }
-.sao-icon-config:before {
+.icon-config:before {
   content: "\e96f";
 }
-.sao-icon-confirm:before {
+.icon-confirm:before {
   content: "\e970";
 }
-.sao-icon-details:before {
+.icon-details:before {
   content: "\e971";
 }
-.sao-icon-dungeon:before {
+.icon-dungeon:before {
   content: "\e972";
 }
-.sao-icon-empty:before {
+.icon-empty:before {
   content: "\e973";
 }
-.sao-icon-equipment:before {
+.icon-equipment:before {
   content: "\e974";
 }
-.sao-icon-exclamation:before {
+.icon-exclamation:before {
   content: "\e975";
 }
-.sao-icon-foward:before {
+.icon-foward:before {
   content: "\e976";
 }
-.sao-icon-friend-add:before {
+.icon-friend-add:before {
   content: "\e977";
 }
-.sao-icon-friend-remove:before {
+.icon-friend-remove:before {
   content: "\e978";
 }
-.sao-icon-group:before {
+.icon-group:before {
   content: "\e979";
 }
-.sao-icon-guild:before {
+.icon-guild:before {
   content: "\e97a";
 }
-.sao-icon-healing-battle:before {
+.icon-healing-battle:before {
   content: "\e97b";
 }
-.sao-icon-help:before {
+.icon-help:before {
   content: "\e97c";
 }
-.sao-icon-invite:before {
+.icon-invite:before {
   content: "\e97d";
 }
-.sao-icon-itens:before {
+.icon-itens:before {
   content: "\e97e";
 }
-.sao-icon-list:before {
+.icon-list:before {
   content: "\e97f";
 }
-.sao-icon-logout:before {
+.icon-logout:before {
   content: "\e980";
 }
-.sao-icon-map:before {
+.icon-map:before {
   content: "\e981";
 }
-.sao-icon-map-gps:before {
+.icon-map-gps:before {
   content: "\e982";
 }
-.sao-icon-message:before {
+.icon-message:before {
   content: "\e983";
 }
-.sao-icon-minus:before {
+.icon-minus:before {
   content: "\e984";
 }
-.sao-icon-necklace:before {
+.icon-necklace:before {
   content: "\e985";
 }
-.sao-icon-options:before {
+.icon-options:before {
   content: "\e986";
 }
-.sao-icon-party:before {
+.icon-party:before {
   content: "\e987";
 }
-.sao-icon-paused:before {
+.icon-paused:before {
   content: "\e988";
 }
-.sao-icon-plus:before {
+.icon-plus:before {
   content: "\e989";
 }
-.sao-icon-quest:before {
+.icon-quest:before {
   content: "\e98a";
 }
-.sao-icon-question:before {
+.icon-question:before {
   content: "\e98b";
 }
-.sao-icon-radar:before {
+.icon-radar:before {
   content: "\e98c";
 }
-.sao-icon-raid:before {
+.icon-raid:before {
   content: "\e98d";
 }
-.sao-icon-reverse:before {
+.icon-reverse:before {
   content: "\e98e";
 }
-.sao-icon-signal:before {
+.icon-signal:before {
   content: "\e98f";
 }
-.sao-icon-skill:before {
+.icon-skill:before {
   content: "\e990";
 }
-.sao-icon-start:before {
+.icon-start:before {
   content: "\e991";
 }
-.sao-icon-status-bar2:before {
+.icon-status-bar2:before {
   content: "\e992";
 }
-.sao-icon-stop:before {
+.icon-stop:before {
   content: "\e993";
 }
-.sao-icon-tracking:before {
+.icon-tracking:before {
   content: "\e994";
 }
-.sao-icon-zoom-in:before {
+.icon-zoom-in:before {
   content: "\e995";
 }
-.sao-icon-zoom-out:before {
+.icon-zoom-out:before {
   content: "\e996";
 }
-
+/*# sourceMappingURL=style.css.map */

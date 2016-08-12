@@ -1,0 +1,784 @@
+@import "variables";
+
+@font-face {
+  font-family: 'sao-glyphs';
+  src:  url('@{icomoon-font-path}/sao-glyphs.eot?dwa841');
+  src:  url('@{icomoon-font-path}/sao-glyphs.eot?dwa841#iefix') format('embedded-opentype'),
+    url('@{icomoon-font-path}/sao-glyphs.ttf?dwa841') format('truetype'),
+    url('@{icomoon-font-path}/sao-glyphs.woff?dwa841') format('woff'),
+    url('@{icomoon-font-path}/sao-glyphs.svg?dwa841#sao-glyphs') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="sao-"], [class*=" sao-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'sao-glyphs' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.sao-btn-armor {
+  &:before {
+    content: @sao-btn-armor;
+  }
+}
+.sao-btn-armor-ringed {
+  &:before {
+    content: @sao-btn-armor-ringed;
+  }
+}
+.sao-btn-avatar {
+  &:before {
+    content: @sao-btn-avatar;
+  }
+}
+.sao-btn-avatar-ringed {
+  &:before {
+    content: @sao-btn-avatar-ringed;
+  }
+}
+.sao-btn-blade {
+  &:before {
+    content: @sao-btn-blade;
+  }
+}
+.sao-btn-blade-dual-ringed {
+  &:before {
+    content: @sao-btn-blade-dual-ringed;
+  }
+}
+.sao-btn-blade-dual {
+  &:before {
+    content: @sao-btn-blade-dual;
+  }
+}
+.sao-btn-blade-parrying {
+  &:before {
+    content: @sao-btn-blade-parrying;
+  }
+}
+.sao-btn-blade-parrying-ringed {
+  &:before {
+    content: @sao-btn-blade-parrying-ringed;
+  }
+}
+.sao-btn-blade-ringed {
+  &:before {
+    content: @sao-btn-blade-ringed;
+  }
+}
+.sao-btn-blade-thowing {
+  &:before {
+    content: @sao-btn-blade-thowing;
+  }
+}
+.sao-btn-blade-thowing-ringed {
+  &:before {
+    content: @sao-btn-blade-thowing-ringed;
+  }
+}
+.sao-btn-cancel {
+  &:before {
+    content: @sao-btn-cancel;
+  }
+}
+.sao-btn-cancel-extrude {
+  &:before {
+    content: @sao-btn-cancel-extrude;
+  }
+}
+.sao-btn-cancel-extrude-ringed {
+  &:before {
+    content: @sao-btn-cancel-extrude-ringed;
+  }
+}
+.sao-btn-cancel-ringed {
+  &:before {
+    content: @sao-btn-cancel-ringed;
+  }
+}
+.sao-btn-checked {
+  &:before {
+    content: @sao-btn-checked;
+  }
+}
+.sao-btn-checked-ringed {
+  &:before {
+    content: @sao-btn-checked-ringed;
+  }
+}
+.sao-btn-close {
+  &:before {
+    content: @sao-btn-close;
+  }
+}
+.sao-btn-close-ringed {
+  &:before {
+    content: @sao-btn-close-ringed;
+  }
+}
+.sao-btn-config {
+  &:before {
+    content: @sao-btn-config;
+  }
+}
+.sao-btn-config-ringed {
+  &:before {
+    content: @sao-btn-config-ringed;
+  }
+}
+.sao-btn-confirm {
+  &:before {
+    content: @sao-btn-confirm;
+  }
+}
+.sao-btn-confirm-extrude {
+  &:before {
+    content: @sao-btn-confirm-extrude;
+  }
+}
+.sao-btn-confirm-extrude-ringed {
+  &:before {
+    content: @sao-btn-confirm-extrude-ringed;
+  }
+}
+.sao-btn-confirm-ringed {
+  &:before {
+    content: @sao-btn-confirm-ringed;
+  }
+}
+.sao-btn-details {
+  &:before {
+    content: @sao-btn-details;
+  }
+}
+.sao-btn-details-ringed {
+  &:before {
+    content: @sao-btn-details-ringed;
+  }
+}
+.sao-btn-dungeon {
+  &:before {
+    content: @sao-btn-dungeon;
+  }
+}
+.sao-btn-dungeon-ringed {
+  &:before {
+    content: @sao-btn-dungeon-ringed;
+  }
+}
+.sao-btn-empty {
+  &:before {
+    content: @sao-btn-empty;
+  }
+}
+.sao-btn-empty-ringed {
+  &:before {
+    content: @sao-btn-empty-ringed;
+  }
+}
+.sao-btn-equipment {
+  &:before {
+    content: @sao-btn-equipment;
+  }
+}
+.sao-btn-equipment-ringed {
+  &:before {
+    content: @sao-btn-equipment-ringed;
+  }
+}
+.sao-btn-exclamation {
+  &:before {
+    content: @sao-btn-exclamation;
+  }
+}
+.sao-btn-exclamation-ringed {
+  &:before {
+    content: @sao-btn-exclamation-ringed;
+  }
+}
+.sao-btn-foward {
+  &:before {
+    content: @sao-btn-foward;
+  }
+}
+.sao-btn-foward-ringed {
+  &:before {
+    content: @sao-btn-foward-ringed;
+  }
+}
+.sao-btn-friend-add {
+  &:before {
+    content: @sao-btn-friend-add;
+  }
+}
+.sao-btn-friend-add-ringed {
+  &:before {
+    content: @sao-btn-friend-add-ringed;
+  }
+}
+.sao-btn-friend-remove {
+  &:before {
+    content: @sao-btn-friend-remove;
+  }
+}
+.sao-btn-friend-remove-ringed {
+  &:before {
+    content: @sao-btn-friend-remove-ringed;
+  }
+}
+.sao-btn-group {
+  &:before {
+    content: @sao-btn-group;
+  }
+}
+.sao-btn-group-ringed {
+  &:before {
+    content: @sao-btn-group-ringed;
+  }
+}
+.sao-btn-guild {
+  &:before {
+    content: @sao-btn-guild;
+  }
+}
+.sao-btn-guild-ringed {
+  &:before {
+    content: @sao-btn-guild-ringed;
+  }
+}
+.sao-btn-healing-battle {
+  &:before {
+    content: @sao-btn-healing-battle;
+  }
+}
+.sao-btn-healing-battle-ringed {
+  &:before {
+    content: @sao-btn-healing-battle-ringed;
+  }
+}
+.sao-btn-help {
+  &:before {
+    content: @sao-btn-help;
+  }
+}
+.sao-btn-help-ringed {
+  &:before {
+    content: @sao-btn-help-ringed;
+  }
+}
+.sao-btn-invite {
+  &:before {
+    content: @sao-btn-invite;
+  }
+}
+.sao-btn-invite-ringed {
+  &:before {
+    content: @sao-btn-invite-ringed;
+  }
+}
+.sao-btn-itens {
+  &:before {
+    content: @sao-btn-itens;
+  }
+}
+.sao-btn-itens-ringed {
+  &:before {
+    content: @sao-btn-itens-ringed;
+  }
+}
+.sao-btn-list {
+  &:before {
+    content: @sao-btn-list;
+  }
+}
+.sao-btn-list-ringed {
+  &:before {
+    content: @sao-btn-list-ringed;
+  }
+}
+.sao-btn-logout {
+  &:before {
+    content: @sao-btn-logout;
+  }
+}
+.sao-btn-logout-ringed {
+  &:before {
+    content: @sao-btn-logout-ringed;
+  }
+}
+.sao-btn-map {
+  &:before {
+    content: @sao-btn-map;
+  }
+}
+.sao-btn-map_ringed {
+  &:before {
+    content: @sao-btn-map_ringed;
+  }
+}
+.sao-btn-map-gps {
+  &:before {
+    content: @sao-btn-map-gps;
+  }
+}
+.sao-btn-map-gps-ringed {
+  &:before {
+    content: @sao-btn-map-gps-ringed;
+  }
+}
+.sao-btn-message {
+  &:before {
+    content: @sao-btn-message;
+  }
+}
+.sao-btn-message-ringed {
+  &:before {
+    content: @sao-btn-message-ringed;
+  }
+}
+.sao-btn-minus {
+  &:before {
+    content: @sao-btn-minus;
+  }
+}
+.sao-btn-minus-ringed {
+  &:before {
+    content: @sao-btn-minus-ringed;
+  }
+}
+.sao-btn-necklace {
+  &:before {
+    content: @sao-btn-necklace;
+  }
+}
+.sao-btn-necklace-ringed {
+  &:before {
+    content: @sao-btn-necklace-ringed;
+  }
+}
+.sao-btn-options {
+  &:before {
+    content: @sao-btn-options;
+  }
+}
+.sao-btn-options-ringed {
+  &:before {
+    content: @sao-btn-options-ringed;
+  }
+}
+.sao-btn-party {
+  &:before {
+    content: @sao-btn-party;
+  }
+}
+.sao-btn-party-ringed {
+  &:before {
+    content: @sao-btn-party-ringed;
+  }
+}
+.sao-btn-paused {
+  &:before {
+    content: @sao-btn-paused;
+  }
+}
+.sao-btn-pause-ringed {
+  &:before {
+    content: @sao-btn-pause-ringed;
+  }
+}
+.sao-btn-plus {
+  &:before {
+    content: @sao-btn-plus;
+  }
+}
+.sao-btn-plus-ringed {
+  &:before {
+    content: @sao-btn-plus-ringed;
+  }
+}
+.sao-btn-quest {
+  &:before {
+    content: @sao-btn-quest;
+  }
+}
+.sao-btn-question {
+  &:before {
+    content: @sao-btn-question;
+  }
+}
+.sao-btn-question-ringed {
+  &:before {
+    content: @sao-btn-question-ringed;
+  }
+}
+.sao-btn-quest-ringed {
+  &:before {
+    content: @sao-btn-quest-ringed;
+  }
+}
+.sao-btn-radar {
+  &:before {
+    content: @sao-btn-radar;
+  }
+}
+.sao-btn-radar-ringed {
+  &:before {
+    content: @sao-btn-radar-ringed;
+  }
+}
+.sao-btn-raid {
+  &:before {
+    content: @sao-btn-raid;
+  }
+}
+.sao-btn-raid-ringed {
+  &:before {
+    content: @sao-btn-raid-ringed;
+  }
+}
+.sao-btn-reverse {
+  &:before {
+    content: @sao-btn-reverse;
+  }
+}
+.sao-btn-reverse-ringed {
+  &:before {
+    content: @sao-btn-reverse-ringed;
+  }
+}
+.sao-btn-shirt {
+  &:before {
+    content: @sao-btn-shirt;
+  }
+}
+.sao-btn-shirt-ringed {
+  &:before {
+    content: @sao-btn-shirt-ringed;
+  }
+}
+.sao-btn-signal {
+  &:before {
+    content: @sao-btn-signal;
+  }
+}
+.sao-btn-signal-ringed {
+  &:before {
+    content: @sao-btn-signal-ringed;
+  }
+}
+.sao-btn-skill {
+  &:before {
+    content: @sao-btn-skill;
+  }
+}
+.sao-btn-skill-ringed {
+  &:before {
+    content: @sao-btn-skill-ringed;
+  }
+}
+.sao-btn-start {
+  &:before {
+    content: @sao-btn-start;
+  }
+}
+.sao-btn-start-ringed {
+  &:before {
+    content: @sao-btn-start-ringed;
+  }
+}
+.sao-btn-stop {
+  &:before {
+    content: @sao-btn-stop;
+  }
+}
+.sao-btn-stop-ringed {
+  &:before {
+    content: @sao-btn-stop-ringed;
+  }
+}
+.sao-btn-tracking {
+  &:before {
+    content: @sao-btn-tracking;
+  }
+}
+.sao-btn-tracking-ringed {
+  &:before {
+    content: @sao-btn-tracking-ringed;
+  }
+}
+.sao-btn-zoom-in {
+  &:before {
+    content: @sao-btn-zoom-in;
+  }
+}
+.sao-btn-zoom-in-ringed {
+  &:before {
+    content: @sao-btn-zoom-in-ringed;
+  }
+}
+.sao-btn-zoom-out {
+  &:before {
+    content: @sao-btn-zoom-out;
+  }
+}
+.sao-btn-zoom-out-ringed {
+  &:before {
+    content: @sao-btn-zoom-out-ringed;
+  }
+}
+.sao-icon-armor {
+  &:before {
+    content: @sao-icon-armor;
+  }
+}
+.sao-icon-avatar {
+  &:before {
+    content: @sao-icon-avatar;
+  }
+}
+.sao-icon-blade {
+  &:before {
+    content: @sao-icon-blade;
+  }
+}
+.sao-icon-blade-dual {
+  &:before {
+    content: @sao-icon-blade-dual;
+  }
+}
+.sao-icon-blade-parrying {
+  &:before {
+    content: @sao-icon-blade-parrying;
+  }
+}
+.sao-icon-blade-throwing {
+  &:before {
+    content: @sao-icon-blade-throwing;
+  }
+}
+.sao-icon-cancel {
+  &:before {
+    content: @sao-icon-cancel;
+  }
+}
+.sao-icon-checked {
+  &:before {
+    content: @sao-icon-checked;
+  }
+}
+.sao-icon-close {
+  &:before {
+    content: @sao-icon-close;
+  }
+}
+.sao-icon-config {
+  &:before {
+    content: @sao-icon-config;
+  }
+}
+.sao-icon-confirm {
+  &:before {
+    content: @sao-icon-confirm;
+  }
+}
+.sao-icon-details {
+  &:before {
+    content: @sao-icon-details;
+  }
+}
+.sao-icon-dungeon {
+  &:before {
+    content: @sao-icon-dungeon;
+  }
+}
+.sao-icon-empty {
+  &:before {
+    content: @sao-icon-empty;
+  }
+}
+.sao-icon-equipment {
+  &:before {
+    content: @sao-icon-equipment;
+  }
+}
+.sao-icon-exclamation {
+  &:before {
+    content: @sao-icon-exclamation;
+  }
+}
+.sao-icon-foward {
+  &:before {
+    content: @sao-icon-foward;
+  }
+}
+.sao-icon-friend-add {
+  &:before {
+    content: @sao-icon-friend-add;
+  }
+}
+.sao-icon-friend-remove {
+  &:before {
+    content: @sao-icon-friend-remove;
+  }
+}
+.sao-icon-group {
+  &:before {
+    content: @sao-icon-group;
+  }
+}
+.sao-icon-guild {
+  &:before {
+    content: @sao-icon-guild;
+  }
+}
+.sao-icon-healing-battle {
+  &:before {
+    content: @sao-icon-healing-battle;
+  }
+}
+.sao-icon-help {
+  &:before {
+    content: @sao-icon-help;
+  }
+}
+.sao-icon-invite {
+  &:before {
+    content: @sao-icon-invite;
+  }
+}
+.sao-icon-itens {
+  &:before {
+    content: @sao-icon-itens;
+  }
+}
+.sao-icon-list {
+  &:before {
+    content: @sao-icon-list;
+  }
+}
+.sao-icon-logout {
+  &:before {
+    content: @sao-icon-logout;
+  }
+}
+.sao-icon-map {
+  &:before {
+    content: @sao-icon-map;
+  }
+}
+.sao-icon-map-gps {
+  &:before {
+    content: @sao-icon-map-gps;
+  }
+}
+.sao-icon-message {
+  &:before {
+    content: @sao-icon-message;
+  }
+}
+.sao-icon-minus {
+  &:before {
+    content: @sao-icon-minus;
+  }
+}
+.sao-icon-necklace {
+  &:before {
+    content: @sao-icon-necklace;
+  }
+}
+.sao-icon-options {
+  &:before {
+    content: @sao-icon-options;
+  }
+}
+.sao-icon-party {
+  &:before {
+    content: @sao-icon-party;
+  }
+}
+.sao-icon-paused {
+  &:before {
+    content: @sao-icon-paused;
+  }
+}
+.sao-icon-plus {
+  &:before {
+    content: @sao-icon-plus;
+  }
+}
+.sao-icon-quest {
+  &:before {
+    content: @sao-icon-quest;
+  }
+}
+.sao-icon-question {
+  &:before {
+    content: @sao-icon-question;
+  }
+}
+.sao-icon-radar {
+  &:before {
+    content: @sao-icon-radar;
+  }
+}
+.sao-icon-raid {
+  &:before {
+    content: @sao-icon-raid;
+  }
+}
+.sao-icon-reverse {
+  &:before {
+    content: @sao-icon-reverse;
+  }
+}
+.sao-icon-signal {
+  &:before {
+    content: @sao-icon-signal;
+  }
+}
+.sao-icon-skill {
+  &:before {
+    content: @sao-icon-skill;
+  }
+}
+.sao-icon-start {
+  &:before {
+    content: @sao-icon-start;
+  }
+}
+.sao-icon-status-bar2 {
+  &:before {
+    content: @sao-icon-status-bar2;
+  }
+}
+.sao-icon-stop {
+  &:before {
+    content: @sao-icon-stop;
+  }
+}
+.sao-icon-tracking {
+  &:before {
+    content: @sao-icon-tracking;
+  }
+}
+.sao-icon-zoom-in {
+  &:before {
+    content: @sao-icon-zoom-in;
+  }
+}
+.sao-icon-zoom-out {
+  &:before {
+    content: @sao-icon-zoom-out;
+  }
+}
+

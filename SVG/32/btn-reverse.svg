@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="32px" height="32px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 3200 3200"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:black}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0" d="M1600 0c884,0 1600,716 1600,1600 0,884 -716,1600 -1600,1600 -884,0 -1600,-716 -1600,-1600 0,-884 716,-1600 1600,-1600zm50 750c0,-100 -100,-200 -200,-200 -50,0 -150,100 -250,200l-500 500c-114,127 -200,250 -200,300 0,50 79,166 200,300l500 500c100,100 200,200 250,200 100,0 200,-100 200,-200 0,-100 0,-200 0,-350l300 350c100,100 200,200 300,200 50,0 150,-100 150,-200l0 -1600c0,-100 -100,-200 -200,-200 -100,0 -150,100 -250,200l-300 350c0,-117 0,-234 0,-350l0 0z"/>
+ </g>
+</svg>

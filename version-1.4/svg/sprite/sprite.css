@@ -1,0 +1,1156 @@
+.icon {
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-image: url(sprite.svg);
+}
+.sao-btn-alert-svg {
+  width: 64px;
+  height: 64px;
+  background-position: 0 0;
+}
+.sao-btn-armor-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -80px 0;
+}
+.sao-btn-avatar-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -160px 0;
+}
+.sao-btn-battle-healing-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -240px 0;
+}
+.sao-btn-before-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -320px 0;
+}
+.sao-btn-belt-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -400px 0;
+}
+.sao-btn-blade-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -480px 0;
+}
+.sao-btn-blade-dual-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -560px 0;
+}
+.sao-btn-blade-parrying-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -640px 0;
+}
+.sao-btn-blade-throwing-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -720px 0;
+}
+.sao-btn-brightness-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -800px 0;
+}
+.sao-btn-calendar-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -880px 0;
+}
+.sao-btn-cancel-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -960px 0;
+}
+.sao-btn-clock-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -1040px 0;
+}
+.sao-btn-confirm-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -1120px 0;
+}
+.sao-btn-contrast-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -1200px 0;
+}
+.sao-btn-correct-svg {
+  width: 64px;
+  height: 64px;
+  background-position: 0 -80px;
+}
+.sao-btn-cross-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -80px -80px;
+}
+.sao-btn-details-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -160px -80px;
+}
+.sao-btn-dices-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -240px -80px;
+}
+.sao-btn-dungeon-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -320px -80px;
+}
+.sao-btn-elemental-air-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -400px -80px;
+}
+.sao-btn-elemental-earth-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -480px -80px;
+}
+.sao-btn-elemental-fire-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -560px -80px;
+}
+.sao-btn-elemental-nature-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -640px -80px;
+}
+.sao-btn-elemental-void-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -720px -80px;
+}
+.sao-btn-elemental-water-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -800px -80px;
+}
+.sao-btn-equipament-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -880px -80px;
+}
+.sao-btn-evil-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -960px -80px;
+}
+.sao-btn-exclamation-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -1040px -80px;
+}
+.sao-btn-foward-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -1120px -80px;
+}
+.sao-btn-friend-add-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -1200px -80px;
+}
+.sao-btn-friend-remove-svg {
+  width: 64px;
+  height: 64px;
+  background-position: 0 -160px;
+}
+.sao-btn-gps-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -80px -160px;
+}
+.sao-btn-group-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -160px -160px;
+}
+.sao-btn-guild-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -240px -160px;
+}
+.sao-btn-heart-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -320px -160px;
+}
+.sao-btn-help-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -400px -160px;
+}
+.sao-btn-info-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -480px -160px;
+}
+.sao-btn-invite-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -560px -160px;
+}
+.sao-btn-itens-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -640px -160px;
+}
+.sao-btn-life-status-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -720px -160px;
+}
+.sao-btn-list-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -800px -160px;
+}
+.sao-btn-list-down-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -880px -160px;
+}
+.sao-btn-list-up-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -960px -160px;
+}
+.sao-btn-loading-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -1040px -160px;
+}
+.sao-btn-logout-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -1120px -160px;
+}
+.sao-btn-mail-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -1200px -160px;
+}
+.sao-btn-mail-open-svg {
+  width: 64px;
+  height: 64px;
+  background-position: 0 -240px;
+}
+.sao-btn-map-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -80px -240px;
+}
+.sao-btn-message-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -160px -240px;
+}
+.sao-btn-mic-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -240px -240px;
+}
+.sao-btn-mic-muted-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -320px -240px;
+}
+.sao-btn-mic-volume-down-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -400px -240px;
+}
+.sao-btn-mic-volume-up-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -480px -240px;
+}
+.sao-btn-minus-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -560px -240px;
+}
+.sao-btn-necklace-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -640px -240px;
+}
+.sao-btn-next-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -720px -240px;
+}
+.sao-btn-options-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -800px -240px;
+}
+.sao-btn-party-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -880px -240px;
+}
+.sao-btn-plus-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -960px -240px;
+}
+.sao-btn-power-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -1040px -240px;
+}
+.sao-btn-quest-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -1120px -240px;
+}
+.sao-btn-question-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -1200px -240px;
+}
+.sao-btn-radar-svg {
+  width: 64px;
+  height: 64px;
+  background-position: 0 -320px;
+}
+.sao-btn-reverse-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -80px -320px;
+}
+.sao-btn-ring-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -160px -320px;
+}
+.sao-btn-settings-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -240px -320px;
+}
+.sao-btn-share-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -320px -320px;
+}
+.sao-btn-shield-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -400px -320px;
+}
+.sao-btn-signal-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -480px -320px;
+}
+.sao-btn-skill-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -560px -320px;
+}
+.sao-btn-social-android-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -640px -320px;
+}
+.sao-btn-social-delicius-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -720px -320px;
+}
+.sao-btn-social-deviantart-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -800px -320px;
+}
+.sao-btn-social-facebook-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -880px -320px;
+}
+.sao-btn-social-flickr-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -960px -320px;
+}
+.sao-btn-social-google-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -1040px -320px;
+}
+.sao-btn-social-googledrive-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -1120px -320px;
+}
+.sao-btn-social-googleplay-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -1200px -320px;
+}
+.sao-btn-social-googleplus-svg {
+  width: 64px;
+  height: 64px;
+  background-position: 0 -400px;
+}
+.sao-btn-social-hangouts-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -80px -400px;
+}
+.sao-btn-social-line-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -160px -400px;
+}
+.sao-btn-social-netflix-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -240px -400px;
+}
+.sao-btn-social-playstation-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -320px -400px;
+}
+.sao-btn-social-podcasts-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -400px -400px;
+}
+.sao-btn-social-skype-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -480px -400px;
+}
+.sao-btn-social-spotify-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -560px -400px;
+}
+.sao-btn-social-twitter-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -640px -400px;
+}
+.sao-btn-social-vine-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -720px -400px;
+}
+.sao-btn-social-whatsapp-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -800px -400px;
+}
+.sao-btn-social-wikipedia-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -880px -400px;
+}
+.sao-btn-social-windows-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -960px -400px;
+}
+.sao-btn-social-xbox-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -1040px -400px;
+}
+.sao-btn-social-youtube-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -1120px -400px;
+}
+.sao-btn-start-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -1200px -400px;
+}
+.sao-btn-statistic-columns-svg {
+  width: 64px;
+  height: 64px;
+  background-position: 0 -480px;
+}
+.sao-btn-status-bar2-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -80px -480px;
+}
+.sao-btn-stop-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -160px -480px;
+}
+.sao-btn-target-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -240px -480px;
+}
+.sao-btn-text-align-center-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -320px -480px;
+}
+.sao-btn-text-align-justify-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -400px -480px;
+}
+.sao-btn-text-align-left-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -480px -480px;
+}
+.sao-btn-text-align-right-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -560px -480px;
+}
+.sao-btn-timer-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -640px -480px;
+}
+.sao-btn-tracking-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -720px -480px;
+}
+.sao-btn-volume-down-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -800px -480px;
+}
+.sao-btn-volume-mute-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -880px -480px;
+}
+.sao-btn-volume-up-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -960px -480px;
+}
+.sao-btn-zoom-in-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -1040px -480px;
+}
+.sao-btn-zoom-out-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -1120px -480px;
+}
+.sao-icon-alert-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -1200px -480px;
+}
+.sao-icon-armor-svg {
+  width: 64px;
+  height: 64px;
+  background-position: 0 -560px;
+}
+.sao-icon-avatar-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -80px -560px;
+}
+.sao-icon-battle-healing-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -160px -560px;
+}
+.sao-icon-before-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -240px -560px;
+}
+.sao-icon-belt-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -320px -560px;
+}
+.sao-icon-blade-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -400px -560px;
+}
+.sao-icon-blade-dual-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -480px -560px;
+}
+.sao-icon-blade-parrying-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -560px -560px;
+}
+.sao-icon-blade-throwing-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -640px -560px;
+}
+.sao-icon-brightness-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -720px -560px;
+}
+.sao-icon-calendar-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -800px -560px;
+}
+.sao-icon-cancel-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -880px -560px;
+}
+.sao-icon-clock-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -960px -560px;
+}
+.sao-icon-confirm-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -1040px -560px;
+}
+.sao-icon-contrast-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -1120px -560px;
+}
+.sao-icon-correct-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -1200px -560px;
+}
+.sao-icon-cross-svg {
+  width: 64px;
+  height: 64px;
+  background-position: 0 -640px;
+}
+.sao-icon-details-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -80px -640px;
+}
+.sao-icon-dices-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -160px -640px;
+}
+.sao-icon-dungeon-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -240px -640px;
+}
+.sao-icon-elemental-air-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -320px -640px;
+}
+.sao-icon-elemental-earth-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -400px -640px;
+}
+.sao-icon-elemental-fire-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -480px -640px;
+}
+.sao-icon-elemental-nature-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -560px -640px;
+}
+.sao-icon-elemental-void-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -640px -640px;
+}
+.sao-icon-elemental-water-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -720px -640px;
+}
+.sao-icon-equipament-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -800px -640px;
+}
+.sao-icon-evil-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -880px -640px;
+}
+.sao-icon-exclamation-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -960px -640px;
+}
+.sao-icon-foward-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -1040px -640px;
+}
+.sao-icon-friend-add-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -1120px -640px;
+}
+.sao-icon-friend-remove-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -1200px -640px;
+}
+.sao-icon-gps-svg {
+  width: 64px;
+  height: 64px;
+  background-position: 0 -720px;
+}
+.sao-icon-group-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -80px -720px;
+}
+.sao-icon-guild-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -160px -720px;
+}
+.sao-icon-heart-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -240px -720px;
+}
+.sao-icon-help-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -320px -720px;
+}
+.sao-icon-info-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -400px -720px;
+}
+.sao-icon-invite-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -480px -720px;
+}
+.sao-icon-itens-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -560px -720px;
+}
+.sao-icon-life-status-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -640px -720px;
+}
+.sao-icon-list-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -720px -720px;
+}
+.sao-icon-list-down-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -800px -720px;
+}
+.sao-icon-list-up-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -880px -720px;
+}
+.sao-icon-loading-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -960px -720px;
+}
+.sao-icon-logout-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -1040px -720px;
+}
+.sao-icon-mail-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -1120px -720px;
+}
+.sao-icon-mail-open-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -1200px -720px;
+}
+.sao-icon-map-svg {
+  width: 64px;
+  height: 64px;
+  background-position: 0 -800px;
+}
+.sao-icon-message-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -80px -800px;
+}
+.sao-icon-mic-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -160px -800px;
+}
+.sao-icon-mic-muted-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -240px -800px;
+}
+.sao-icon-mic-volume-down-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -320px -800px;
+}
+.sao-icon-mic-volume-up-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -400px -800px;
+}
+.sao-icon-minus-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -480px -800px;
+}
+.sao-icon-necklace-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -560px -800px;
+}
+.sao-icon-next-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -640px -800px;
+}
+.sao-icon-options-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -720px -800px;
+}
+.sao-icon-party-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -800px -800px;
+}
+.sao-icon-plus-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -880px -800px;
+}
+.sao-icon-power-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -960px -800px;
+}
+.sao-icon-quest-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -1040px -800px;
+}
+.sao-icon-question-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -1120px -800px;
+}
+.sao-icon-radar-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -1200px -800px;
+}
+.sao-icon-reverse-svg {
+  width: 64px;
+  height: 64px;
+  background-position: 0 -880px;
+}
+.sao-icon-ring-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -80px -880px;
+}
+.sao-icon-settings-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -160px -880px;
+}
+.sao-icon-share-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -240px -880px;
+}
+.sao-icon-shield-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -320px -880px;
+}
+.sao-icon-signal-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -400px -880px;
+}
+.sao-icon-skill-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -480px -880px;
+}
+.sao-icon-social-android-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -560px -880px;
+}
+.sao-icon-social-delicius-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -640px -880px;
+}
+.sao-icon-social-deviantart-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -720px -880px;
+}
+.sao-icon-social-facebook-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -800px -880px;
+}
+.sao-icon-social-flickr-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -880px -880px;
+}
+.sao-icon-social-google-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -960px -880px;
+}
+.sao-icon-social-googledrive-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -1040px -880px;
+}
+.sao-icon-social-googleplay-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -1120px -880px;
+}
+.sao-icon-social-googleplus-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -1200px -880px;
+}
+.sao-icon-social-hangouts-svg {
+  width: 64px;
+  height: 64px;
+  background-position: 0 -960px;
+}
+.sao-icon-social-line-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -80px -960px;
+}
+.sao-icon-social-netflix-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -160px -960px;
+}
+.sao-icon-social-playstation-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -240px -960px;
+}
+.sao-icon-social-podcasts-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -320px -960px;
+}
+.sao-icon-social-skype-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -400px -960px;
+}
+.sao-icon-social-spotify-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -480px -960px;
+}
+.sao-icon-social-twitter-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -560px -960px;
+}
+.sao-icon-social-vine-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -640px -960px;
+}
+.sao-icon-social-whatsapp-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -720px -960px;
+}
+.sao-icon-social-wikipedia-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -800px -960px;
+}
+.sao-icon-social-windows-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -880px -960px;
+}
+.sao-icon-social-xbox-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -960px -960px;
+}
+.sao-icon-social-youtube-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -1040px -960px;
+}
+.sao-icon-start-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -1120px -960px;
+}
+.sao-icon-statistic-columns-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -1200px -960px;
+}
+.sao-icon-status-bar2-svg {
+  width: 64px;
+  height: 64px;
+  background-position: 0 -1040px;
+}
+.sao-icon-stop-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -80px -1040px;
+}
+.sao-icon-target-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -160px -1040px;
+}
+.sao-icon-text-align-center-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -240px -1040px;
+}
+.sao-icon-text-align-justify-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -320px -1040px;
+}
+.sao-icon-text-align-left-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -400px -1040px;
+}
+.sao-icon-text-align-right-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -480px -1040px;
+}
+.sao-icon-timer-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -560px -1040px;
+}
+.sao-icon-tracking-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -640px -1040px;
+}
+.sao-icon-volume-down-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -720px -1040px;
+}
+.sao-icon-volume-mute-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -800px -1040px;
+}
+.sao-icon-volume-up-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -880px -1040px;
+}
+.sao-icon-zoom-in-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -960px -1040px;
+}
+.sao-icon-zoom-out-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -1040px -1040px;
+}
+.sao-ring-avatar-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -1120px -1040px;
+}
+.sao-ring-cancel-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -1200px -1040px;
+}
+.sao-ring-confirm-svg {
+  width: 64px;
+  height: 64px;
+  background-position: 0 -1120px;
+}
+.sao-ring-gps-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -80px -1120px;
+}
+.sao-ring-group-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -160px -1120px;
+}
+.sao-ring-itens-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -240px -1120px;
+}
+.sao-ring-message-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -320px -1120px;
+}
+.sao-ring-settings-svg {
+  width: 64px;
+  height: 64px;
+  background-position: -400px -1120px;
+}
+
